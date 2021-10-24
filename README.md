@@ -12,7 +12,11 @@ You have to copy the workbook AND the "Rake" function file to the correct locati
 1) Copy Oval_Track_Workbook_v3.wbk file into the C:\Documents\McLaren Electronics Systems\Atlas9\Workbooks\ directory.
 
 2) Copy the %RAKE file to the into the C:\Documents\McLaren Electronics Systems\Atlas9\Funclib\ directory.
+
+
 !!!Important!!!
-After you copy the %RAKE file into the directory above, verify that the file STILL has the "%" sympbol in the file name.  I have seen this character get lost and so you may have to rename the file to restore it to get the rake function to work properly. If you have no data in the rake waveform area then you are most likely missing the function file or it is not named correctly.
+After you copy the %RAKE file into the directory above, verify that the file STILL has the "%" sympbol in the file name.  
+
+I have seen this character get lost and so you may have to rename the file to restore it to get the rake function to work properly. If you have no data in the rake waveform area then you are most likely missing the function file or it is not named correctly.
 
 Double check the paths as I may have a slight typos.  
