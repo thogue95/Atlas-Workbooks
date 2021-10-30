@@ -7,6 +7,8 @@ In order to get this workbook to come up, you will need to have already installe
 
 Important!!!!
 
+Before you start make sure you are getting telemetry files in the C:\Documents\iracing\telemetry directory.  If you are not getting files in there, it will not work.
+
 You have to copy the workbook AND the "Rake" function file to the correct locations.  2 steps:
 
 1) Copy Oval_Track_Workbook_v3.wbk file into the C:\Documents\McLaren Electronics Systems\Atlas9\Workbooks\ directory.
