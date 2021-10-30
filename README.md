@@ -3,7 +3,7 @@ Atlas Workbooks for Iracing
 
 Update:  This Atlas directory contains a workbook that was setup for oval racing in iRacing.  Our current focus on oval cars is NextGen, Trucks, Sk Modifieds and Nascar Tour Modifieds.  This should help in provide some context as to why the screen is laid out like it is.
 
-In order to get this workbook to come up, you will need to have already installed Atlas. Busters Corner on Youtube has provide a video on how to install this workbook and get Atlas up and running.  Here is the link to the video:  https://www.youtube.com/watch?v=Wp0I3ADXJHs
+In order to get this workbook to come up, you will need to have already installed Atlas. Busters Corner on Youtube has provided a video on how to install this workbook and get Atlas up and running.  Here is the link to the video:  https://www.youtube.com/watch?v=Wp0I3ADXJHs
 
 Important!!!!
 
